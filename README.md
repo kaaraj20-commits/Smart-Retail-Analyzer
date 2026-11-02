@@ -122,7 +122,7 @@ The analysis helps identify:
 
 ## 🌐 Live Dashboard
 
-**Streamlit Deployment:** Add your deployed dashboard link here.
+**Streamlit Deployment:** https://smart-retail-analyzer-m73njemxtmgbouv8eosbtv.streamlit.app/
 
 ## 👩‍💻 Developed By
 
